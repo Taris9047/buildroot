@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Buildroot -g1405ca2acd Configuration
+# Buildroot -gdba249cede Configuration
 #
 BR2_HAVE_DOT_CONFIG=y
 BR2_EXTERNAL_NAMES="ST"
@@ -3826,7 +3826,7 @@ BR2_PACKAGE_IPUTILS_PING=y
 BR2_PACKAGE_IPUTILS_TRACEPATH=y
 # BR2_PACKAGE_IRSSI is not set
 BR2_PACKAGE_IW=y
-BR2_PACKAGE_IWD=y
+# BR2_PACKAGE_IWD is not set
 # BR2_PACKAGE_JANUS_GATEWAY is not set
 # BR2_PACKAGE_KEEPALIVED is not set
 # BR2_PACKAGE_KISMET is not set

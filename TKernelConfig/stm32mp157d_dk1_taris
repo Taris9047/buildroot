@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Buildroot -gdba249cede Configuration
+# Buildroot -g3f3be4e9af Configuration
 #
 BR2_HAVE_DOT_CONFIG=y
 BR2_EXTERNAL_NAMES="ST"
@@ -346,7 +346,7 @@ BR2_GLOBAL_PATCH_DIR="$(BR2_EXTERNAL_ST_PATH)/board/stmicroelectronics/common/pa
 # BR2_DOWNLOAD_FORCE_CHECK_HASHES is not set
 # BR2_REPRODUCIBLE is not set
 # BR2_PER_PACKAGE_DIRECTORIES is not set
-BR2_TIME_BITS_64=y
+# BR2_TIME_BITS_64 is not set
 
 #
 # Security Hardening Options

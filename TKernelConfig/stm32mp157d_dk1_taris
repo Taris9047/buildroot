@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Buildroot -gfc12a1f683 Configuration
+# Buildroot -g1742eb450c Configuration
 #
 BR2_HAVE_DOT_CONFIG=y
 BR2_EXTERNAL_NAMES="ST"
@@ -2631,7 +2631,7 @@ BR2_PACKAGE_PROVIDES_HOST_ZLIB="host-libzlib"
 # BR2_PACKAGE_BEARSSL is not set
 BR2_PACKAGE_BOTAN_ARCH_SUPPORTS=y
 # BR2_PACKAGE_BOTAN is not set
-# BR2_PACKAGE_CA_CERTIFICATES is not set
+BR2_PACKAGE_CA_CERTIFICATES=y
 # BR2_PACKAGE_CRYPTODEV_LINUX is not set
 # BR2_PACKAGE_CRYPTOPP is not set
 # BR2_PACKAGE_GCR is not set

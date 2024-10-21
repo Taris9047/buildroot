@@ -70,6 +70,14 @@ chown -R 2775 /home/taris
 # alias cp='cp -i'
 # alias mv='mv -i'
 #
+# Also remember to make .profile to put these lines
+#
+# if [ -n "$BASH_VERSION" ]; then
+#   if [ -f "${HOME}/.bashrc" ]; then
+#     . "${HOME}/.bashrc"
+#   fi
+# fi
+
 
 #
 # 4. Resize the main partition to use entire SD Card space

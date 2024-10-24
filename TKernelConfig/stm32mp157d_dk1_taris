@@ -1,11 +1,11 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Buildroot -g69499e07f0-dirty Configuration
+# Buildroot -ge835926b84 Configuration
 #
 BR2_HAVE_DOT_CONFIG=y
 BR2_EXTERNAL_NAMES="ST"
-BR2_EXTERNAL_ST_PATH="/home/taris/Build/buildroot-external-st"
-BR2_EXTERNAL_ST_VERSION="-gbd7527a"
+BR2_EXTERNAL_ST_PATH="/home/taris/Build/STM32/buildroot/ExternalSTM32/buildroot-external-st"
+BR2_EXTERNAL_ST_VERSION="-g42d3dfb"
 BR2_HOST_GCC_AT_LEAST_4_9=y
 BR2_HOST_GCC_AT_LEAST_5=y
 BR2_HOST_GCC_AT_LEAST_6=y
@@ -5621,6 +5621,6 @@ BR2_TARGET_UBOOT_CUSTOM_PATCH_DIR=""
 #
 
 #
-# External buildroot tree for ST boards (in /home/taris/Build/buildroot-external-st)
+# External buildroot tree for ST boards (in /home/taris/Build/STM32/buildroot/ExternalSTM32/buildroot-external-st)
 #
 # BR2_PACKAGE_M4PROJECTS is not set

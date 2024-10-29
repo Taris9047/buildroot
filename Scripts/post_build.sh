@@ -10,10 +10,10 @@ hwclock --systohc
 hwclock -u -s
 
 # Adding me
-mkdir -p /home/taris
-adduser taris
-chown -R taris:taris /home/taris
-chmod -R 2775 /home/taris
+#mkdir -p /home/taris
+#adduser taris
+#chown -R taris:taris /home/taris
+#chmod -R 2775 /home/taris
 passwd -e taris
 
 # Setting up some bash stuffs..

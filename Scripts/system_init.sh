@@ -41,8 +41,8 @@ hwclock -u -s
 #
 mkdir -p /home/taris
 adduser taris
-chmod -R taris:taris /home/taris
-chown -R 2775 /home/taris
+chown -R taris:taris /home/taris
+chmod -R 2775 /home/taris
 
 #
 # 2. sudo

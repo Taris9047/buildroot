@@ -1,11 +1,11 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Buildroot -g86a5d79141-dirty Configuration
+# Buildroot -gfc6a56c2e5 Configuration
 #
 BR2_HAVE_DOT_CONFIG=y
 BR2_EXTERNAL_NAMES="ST"
-BR2_EXTERNAL_ST_PATH="/home/taris/Build/buildroot-external-st"
-BR2_EXTERNAL_ST_VERSION="-gbd7527a"
+BR2_EXTERNAL_ST_PATH="/storage/Build/STM32MP157D-DK1/buildroot-external-st"
+BR2_EXTERNAL_ST_VERSION="-g42d3dfb"
 BR2_HOST_GCC_AT_LEAST_4_9=y
 BR2_HOST_GCC_AT_LEAST_5=y
 BR2_HOST_GCC_AT_LEAST_6=y
@@ -3051,7 +3051,7 @@ BR2_PACKAGE_LIBHID=y
 # BR2_PACKAGE_LIBSOC is not set
 # BR2_PACKAGE_LIBSS7 is not set
 BR2_PACKAGE_LIBUSB=y
-# BR2_PACKAGE_LIBUSB_EXAMPLES is not set
+BR2_PACKAGE_LIBUSB_EXAMPLES=y
 BR2_PACKAGE_LIBUSB_COMPAT=y
 # BR2_PACKAGE_LIBUSBGX is not set
 # BR2_PACKAGE_LIBV4L is not set
@@ -3241,7 +3241,7 @@ BR2_PACKAGE_C_ARES=y
 # BR2_PACKAGE_LIBCOAP is not set
 # BR2_PACKAGE_LIBCPPRESTSDK is not set
 BR2_PACKAGE_LIBCURL=y
-# BR2_PACKAGE_LIBCURL_CURL is not set
+BR2_PACKAGE_LIBCURL_CURL=y
 # BR2_PACKAGE_LIBCURL_VERBOSE is not set
 BR2_PACKAGE_LIBCURL_PROXY_SUPPORT=y
 BR2_PACKAGE_LIBCURL_COOKIES_SUPPORT=y
@@ -3837,7 +3837,7 @@ BR2_PACKAGE_IPUTILS_TRACEPATH=y
 BR2_PACKAGE_IW=y
 # BR2_PACKAGE_IWD is not set
 # BR2_PACKAGE_JANUS_GATEWAY is not set
-# BR2_PACKAGE_KEEPALIVED is not set
+BR2_PACKAGE_KEEPALIVED=y
 # BR2_PACKAGE_KISMET is not set
 # BR2_PACKAGE_KNOCK is not set
 # BR2_PACKAGE_KSMBD_TOOLS is not set
@@ -5628,6 +5628,6 @@ BR2_TARGET_UBOOT_CUSTOM_PATCH_DIR=""
 #
 
 #
-# External buildroot tree for ST boards (in /home/taris/Build/buildroot-external-st)
+# External buildroot tree for ST boards (in /storage/Build/STM32MP157D-DK1/buildroot-external-st)
 #
 # BR2_PACKAGE_M4PROJECTS is not set
